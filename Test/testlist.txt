@@ -1,0 +1,4 @@
+Tandbørste
+test 1: Start tandbørste
+input: Start()
+forventet output: erStartet == true
